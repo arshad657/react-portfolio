@@ -1,0 +1,88 @@
+
+body{
+
+    background: url(../image/ig1.jpg);
+    background-position: center;
+}
+.form{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin: auto;
+    margin-top: 114px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 20px 5px black;
+    
+}
+.font{
+    font-size: 30px;
+    margin: 12px auto 20px 80;
+    padding-top: 22px;
+    font-weight: 600;
+}
+div input{
+    height: 40px;
+    width: 100%;
+}
+.input{
+ margin-bottom: 15px;   
+ border: 1px solid rgb(201, 201, 201);
+ background-color: #f0f2f5;
+}
+.userpart{
+    height: 250px;
+    width: 93%;
+    margin-left: 11px;
+}
+.userpart button{
+    height: 35;
+    width: 100%;
+    background-color: rgb(212, 16, 75);
+    color: white;
+    font-size: 15;
+    font-weight: 700;
+    border: 1px solid grey;
+}
+.fs{
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 120px;
+}
+.fs a{
+    color: black;
+    
+}
+.fs a:hover{
+    font-weight: 800;
+    color:  rgb(212, 16, 75);
+
+}
+.userpart a{
+    text-decoration: none;
+}
+}
+.text{
+    text-decoration: none;
+    color: black;
+    /*font-weight: 900;*/
+}
+.logo{
+    background-color: white;
+    color: rgb(43,43,161);
+    margin-left: 85px;
+}
+.logo i,a:hover{
+    font-weight: 900;
+}
+.forget{
+    color: black;
+    margin-left: 120px;
+    padding-top: 100px;
+    text-decoration: none;
+}
+hr{
+    margin-top: 15;
+}
+.fs:hover{
+    color: rgb(43, 43, 161);
+}
